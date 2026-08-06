@@ -24,5 +24,15 @@
     "name": "orz-markdown-for-course-materials-t7t7dajv-private"
   },
   "unitTerm": "module",
-  "createdAt": "2026-08-05T20:14:00.341Z"
+  "createdAt": "2026-08-05T20:14:00.341Z",
+  "chapters": [
+    {
+      "slug": "01-getting-started",
+      "title": "Introduction to Alembic and the orz family"
+    },
+    {
+      "slug": "workshop-1",
+      "title": "Workshop 1"
+    }
+  ]
 }

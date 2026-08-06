@@ -11,6 +11,7 @@
   "discipline": "chemistry",
   "courseContext": {
     "instructor": "Manyu Li and Yu Wang",
+    "courseNumber": "ORZ 101",
     "department": "orz.how"
   },
   "license": "CC-BY-4.0",

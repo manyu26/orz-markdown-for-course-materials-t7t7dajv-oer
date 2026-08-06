@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "packageId": "pkg-orz-markdown-for-course-materials-t7t7dajv",
-  "title": "orz-markdown for course materials",
+  "title": "Introduction to Alembic and the orz family",
   "description": "This course is part of a workshop to guide faculty and higher education administration to learn about the open-source ecosystem the orz.how team is building to streamline course material preparation using a lightweight workflow.",
   "keywords": [
     "AI-assisted teaching",
@@ -14,8 +14,6 @@
     "department": "orz.how"
   },
   "license": "CC-BY-4.0",
-  "unitTerm": "module",
-  "createdAt": "2026-08-05T20:14:00.341Z",
   "publicRepo": {
     "owner": "manyu26",
     "name": "orz-markdown-for-course-materials-t7t7dajv-oer"
@@ -23,5 +21,7 @@
   "privateRepo": {
     "owner": "manyu26",
     "name": "orz-markdown-for-course-materials-t7t7dajv-private"
-  }
+  },
+  "unitTerm": "module",
+  "createdAt": "2026-08-05T20:14:00.341Z"
 }
